@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./js",  // Директория для сохранения скомпилированных файлов
+    /* Type Checking */
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
